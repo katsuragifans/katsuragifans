@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @katsuragifans
 - 👀 I’m interested in code
-- 🌱 I’m currently learning basic
 - 📫 How to reach me with email ghemadiva@gmail.com
   
 
